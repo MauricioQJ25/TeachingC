@@ -14,3 +14,9 @@ Exercise 2. Using Makefiles to Build
     3.- run the following commands
         make clean
         make ex1
+
+Excercise 3 Completed
+
+Excercise 4 Completed
+
+Delete .gitignore learn how to do it
