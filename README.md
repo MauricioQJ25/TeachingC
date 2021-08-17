@@ -15,8 +15,18 @@ Exercise 2. Using Makefiles to Build
         make clean
         make ex1
 
-Excercise 3 Completed
+Exercise 3 Completed
 
-Excercise 4 Completed
+Exercise 4 Debugger
+
+Exercise 5 Memorizing C Operators
+
+Exercise 6 Memorizing C Sintax
+
+Exercise 7 Variables and types write and run
+
+Exercise 8 if, else-if, else
+
+
 
 Delete .gitignore learn how to do it
