@@ -27,6 +27,10 @@ Exercise 7 Variables and types write and run
 
 Exercise 8 if, else-if, else
 
+Exercise 9 While Loop
 
+Exercise 10 Switch Statements( bad code)
+
+Exercise 11 Arrays and Strings  //completed
 
 Delete .gitignore learn how to do it
